@@ -1,0 +1,31 @@
+h1 {
+    color: darkcyan;
+    font-size: 30px;
+}
+
+#identity {
+    text-align: center;
+    background-color:darkcyan;
+    color: white;
+}
+
+#contact {
+    text-align: left;
+    background-color:aquamarine;
+    color: white;
+}
+
+.position {
+    text-align: left;
+    font-weight: 300;
+}
+
+.duration {
+    text-align: right;
+    opacity: 0.7;
+}
+
+.location {
+    text-align: left;
+    opacity: 0.7;
+}
